@@ -1,0 +1,6 @@
+plugin-poisoned-DQMOfflineRecoBPlugins.so BTagPerformanceAnalyzerOnData CMS%EDM%Framework%Module
+plugin-poisoned-DQMOfflineRecoBPlugins.so BTagPerformanceAnalyzerOnData CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-DQMOfflineRecoBPlugins.so BTagPerformanceHarvester CMS%EDM%Framework%Module
+plugin-poisoned-DQMOfflineRecoBPlugins.so BTagPerformanceHarvester CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-DQMOfflineRecoBPlugins.so PrimaryVertexMonitor CMS%EDM%Framework%Module
+plugin-poisoned-DQMOfflineRecoBPlugins.so PrimaryVertexMonitor CMS%EDM%Framework%ParameterSet%Description

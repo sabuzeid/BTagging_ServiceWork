@@ -1,0 +1,3 @@
+tmp/slc6_amd64_gcc491/src/PhysicsTools/MVATrainer/bin/mvaTreeComputer/mvaTreeComputer.o: \
+ src/PhysicsTools/MVATrainer/bin/mvaTreeComputer.cpp \
+

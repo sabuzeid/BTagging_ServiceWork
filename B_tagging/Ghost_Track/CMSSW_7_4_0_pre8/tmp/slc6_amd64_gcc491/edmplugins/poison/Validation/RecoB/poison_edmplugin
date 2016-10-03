@@ -1,0 +1,4 @@
+plugin-poisoned-ValidationRecoBPlugins.so BTagPerformanceAnalyzerMC CMS%EDM%Framework%Module
+plugin-poisoned-ValidationRecoBPlugins.so BTagPerformanceAnalyzerMC CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-ValidationRecoBPlugins.so recoBSVTagInfoValidationAnalyzer CMS%EDM%Framework%Module
+plugin-poisoned-ValidationRecoBPlugins.so recoBSVTagInfoValidationAnalyzer CMS%EDM%Framework%ParameterSet%Description

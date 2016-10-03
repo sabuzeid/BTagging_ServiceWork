@@ -1,0 +1,11 @@
+tmp/slc6_amd64_gcc491/src/PhysicsTools/MVATrainer/test/testMVATrainer/testMVATrainer.o: \
+ src/PhysicsTools/MVATrainer/test/testMVATrainer.cpp \
+ src/PhysicsTools/MVATrainer/interface/MVATrainer.h \
+ src/PhysicsTools/MVATrainer/interface/XMLDocument.h \
+ src/PhysicsTools/MVATrainer/interface/XMLDocument.icc \
+ src/PhysicsTools/MVATrainer/interface/XMLSimpleStr.h \
+ src/PhysicsTools/MVATrainer/interface/XMLUniStr.h \
+ src/PhysicsTools/MVATrainer/interface/SourceVariable.h \
+ src/PhysicsTools/MVATrainer/interface/SourceVariableSet.h \
+ src/PhysicsTools/MVATrainer/interface/TrainerMonitoring.h \
+

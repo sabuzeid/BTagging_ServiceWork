@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=PhysicsTools
+subdirs_src_PhysicsTools = src_PhysicsTools_JetMCAlgos src_PhysicsTools_MVATrainer

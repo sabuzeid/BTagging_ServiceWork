@@ -1,0 +1,2 @@
+01:/bin/rm -f lib/slc6_amd64_gcc491/pluginValidationRecoBPlugins.so lib/slc6_amd64_gcc491/ValidationRecoBPlugins.edmplugin
+90:edmPluginRefresh lib/slc6_amd64_gcc491

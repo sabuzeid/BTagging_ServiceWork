@@ -1,0 +1,2 @@
+ALL_PACKAGES += DQMOffline/RecoB
+subdirs_src_DQMOffline_RecoB := src_DQMOffline_RecoB_src src_DQMOffline_RecoB_plugins src_DQMOffline_RecoB_test src_DQMOffline_RecoB_python

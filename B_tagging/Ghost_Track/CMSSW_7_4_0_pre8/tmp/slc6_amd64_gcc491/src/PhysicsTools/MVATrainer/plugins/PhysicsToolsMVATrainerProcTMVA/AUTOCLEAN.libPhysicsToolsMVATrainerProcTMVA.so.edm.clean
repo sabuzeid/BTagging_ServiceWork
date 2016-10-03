@@ -1,0 +1,2 @@
+01:/bin/rm -f lib/slc6_amd64_gcc491/pluginPhysicsToolsMVATrainerProcTMVA.so lib/slc6_amd64_gcc491/PhysicsToolsMVATrainerProcTMVA.edmplugin
+90:edmPluginRefresh lib/slc6_amd64_gcc491

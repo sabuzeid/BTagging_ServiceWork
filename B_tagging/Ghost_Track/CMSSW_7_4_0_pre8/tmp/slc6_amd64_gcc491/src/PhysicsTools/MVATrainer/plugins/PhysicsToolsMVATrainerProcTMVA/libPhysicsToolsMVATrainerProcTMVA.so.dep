@@ -1,0 +1,13 @@
+tmp/slc6_amd64_gcc491/src/PhysicsTools/MVATrainer/plugins/PhysicsToolsMVATrainerProcTMVA/ProcTMVA.o: \
+ src/PhysicsTools/MVATrainer/plugins/ProcTMVA.cc \
+ src/PhysicsTools/MVATrainer/interface/XMLDocument.h \
+ src/PhysicsTools/MVATrainer/interface/XMLDocument.icc \
+ src/PhysicsTools/MVATrainer/interface/XMLSimpleStr.h \
+ src/PhysicsTools/MVATrainer/interface/XMLUniStr.h \
+ src/PhysicsTools/MVATrainer/interface/MVATrainer.h \
+ src/PhysicsTools/MVATrainer/interface/SourceVariable.h \
+ src/PhysicsTools/MVATrainer/interface/SourceVariableSet.h \
+ src/PhysicsTools/MVATrainer/interface/TrainerMonitoring.h \
+ src/PhysicsTools/MVATrainer/interface/TrainProcessor.h \
+ src/PhysicsTools/MVATrainer/interface/Source.h
+

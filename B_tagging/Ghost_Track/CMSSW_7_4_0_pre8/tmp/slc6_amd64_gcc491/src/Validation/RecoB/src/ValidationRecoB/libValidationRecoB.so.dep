@@ -1,0 +1,4 @@
+tmp/slc6_amd64_gcc491/src/Validation/RecoB/src/ValidationRecoB/HistoCompare.o: \
+ src/Validation/RecoB/src/HistoCompare.cc \
+ src/Validation/RecoB/interface/HistoCompare.h \
+

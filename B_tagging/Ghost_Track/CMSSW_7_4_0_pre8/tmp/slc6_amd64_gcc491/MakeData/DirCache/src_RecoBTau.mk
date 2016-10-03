@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=RecoBTau
+subdirs_src_RecoBTau = src_RecoBTau_JetTagMVALearning

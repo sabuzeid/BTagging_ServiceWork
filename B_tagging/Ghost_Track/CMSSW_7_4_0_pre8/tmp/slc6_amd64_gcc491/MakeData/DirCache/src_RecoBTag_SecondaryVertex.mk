@@ -1,0 +1,2 @@
+ALL_PACKAGES += RecoBTag/SecondaryVertex
+subdirs_src_RecoBTag_SecondaryVertex := src_RecoBTag_SecondaryVertex_python src_RecoBTag_SecondaryVertex_interface src_RecoBTag_SecondaryVertex_src src_RecoBTag_SecondaryVertex_plugins

@@ -1,0 +1,2 @@
+ALL_PACKAGES += Validation/RecoB
+subdirs_src_Validation_RecoB := src_Validation_RecoB_doc src_Validation_RecoB_plugins src_Validation_RecoB_python src_Validation_RecoB_scripts src_Validation_RecoB_test src_Validation_RecoB_src

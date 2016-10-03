@@ -1,0 +1,29 @@
+tmp/slc6_amd64_gcc491/src/PhysicsTools/JetMCAlgos/src/PhysicsToolsJetMCAlgos/BasePartonSelector.o: \
+ src/PhysicsTools/JetMCAlgos/src/BasePartonSelector.cc \
+ src/PhysicsTools/JetMCAlgos/interface/BasePartonSelector.h \
+
+tmp/slc6_amd64_gcc491/src/PhysicsTools/JetMCAlgos/src/PhysicsToolsJetMCAlgos/Herwig6PartonSelector.o: \
+ src/PhysicsTools/JetMCAlgos/src/Herwig6PartonSelector.cc \
+ src/PhysicsTools/JetMCAlgos/interface/Herwig6PartonSelector.h \
+ src/PhysicsTools/JetMCAlgos/interface/BasePartonSelector.h \
+
+tmp/slc6_amd64_gcc491/src/PhysicsTools/JetMCAlgos/src/PhysicsToolsJetMCAlgos/HerwigppPartonSelector.o: \
+ src/PhysicsTools/JetMCAlgos/src/HerwigppPartonSelector.cc \
+ src/PhysicsTools/JetMCAlgos/interface/HerwigppPartonSelector.h \
+ src/PhysicsTools/JetMCAlgos/interface/BasePartonSelector.h \
+
+tmp/slc6_amd64_gcc491/src/PhysicsTools/JetMCAlgos/src/PhysicsToolsJetMCAlgos/Pythia6PartonSelector.o: \
+ src/PhysicsTools/JetMCAlgos/src/Pythia6PartonSelector.cc \
+ src/PhysicsTools/JetMCAlgos/interface/Pythia6PartonSelector.h \
+ src/PhysicsTools/JetMCAlgos/interface/BasePartonSelector.h \
+
+tmp/slc6_amd64_gcc491/src/PhysicsTools/JetMCAlgos/src/PhysicsToolsJetMCAlgos/Pythia8PartonSelector.o: \
+ src/PhysicsTools/JetMCAlgos/src/Pythia8PartonSelector.cc \
+ src/PhysicsTools/JetMCAlgos/interface/Pythia8PartonSelector.h \
+ src/PhysicsTools/JetMCAlgos/interface/BasePartonSelector.h \
+
+tmp/slc6_amd64_gcc491/src/PhysicsTools/JetMCAlgos/src/PhysicsToolsJetMCAlgos/SherpaPartonSelector.o: \
+ src/PhysicsTools/JetMCAlgos/src/SherpaPartonSelector.cc \
+ src/PhysicsTools/JetMCAlgos/interface/SherpaPartonSelector.h \
+ src/PhysicsTools/JetMCAlgos/interface/BasePartonSelector.h \
+

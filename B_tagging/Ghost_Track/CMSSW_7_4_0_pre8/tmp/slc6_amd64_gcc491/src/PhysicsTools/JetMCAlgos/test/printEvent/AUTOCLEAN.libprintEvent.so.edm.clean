@@ -1,0 +1,2 @@
+01:/bin/rm -f lib/slc6_amd64_gcc491/pluginprintEvent.so lib/slc6_amd64_gcc491/printEvent.edmplugin
+90:edmPluginRefresh lib/slc6_amd64_gcc491

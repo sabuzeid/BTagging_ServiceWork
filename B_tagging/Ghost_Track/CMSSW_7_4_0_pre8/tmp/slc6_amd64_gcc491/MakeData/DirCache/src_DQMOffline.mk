@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=DQMOffline
+subdirs_src_DQMOffline = src_DQMOffline_RecoB

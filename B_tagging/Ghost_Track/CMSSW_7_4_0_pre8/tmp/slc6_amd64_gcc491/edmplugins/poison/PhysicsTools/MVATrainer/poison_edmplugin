@@ -1,0 +1,14 @@
+plugin-poisoned-PhysicsToolsMVATrainerProcMLP.so TrainProcessor/ProcMLP PhysicsToolsMVATrainer
+plugin-poisoned-PhysicsToolsMVATrainerProcTMVA.so TrainProcessor/ProcTMVA PhysicsToolsMVATrainer
+plugin-poisoned-PhysicsToolsMVATrainerPlugins.so MVAComputerTrainerLooper CMS%EDM%Framework%EDLooper
+plugin-poisoned-PhysicsToolsMVATrainerPlugins.so MVAComputerTrainerSave CMS%EDM%Framework%Module
+plugin-poisoned-PhysicsToolsMVATrainerPlugins.so MVAComputerTrainerSave CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-PhysicsToolsMVATrainerCapabilities.so LCGReflex/PhysicsTools::MVATrainer Capability
+plugin-poisoned-PhysicsToolsMVATrainerCapabilities.so LCGReflex/PhysicsTools::TreeTrainer Capability
+plugin-poisoned-testMVATrainerLooper.so MVADemoContainerSaveCondDB CMS%EDM%Framework%Module
+plugin-poisoned-testMVATrainerLooper.so MVADemoContainerSaveCondDB CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-testMVATrainerLooper.so MVADemoSaveFile CMS%EDM%Framework%Module
+plugin-poisoned-testMVATrainerLooper.so MVADemoSaveFile CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-testMVATrainerLooper.so MVADemoTrainerLooper CMS%EDM%Framework%EDLooper
+plugin-poisoned-testMVATrainerLooper.so testMVATrainerLooper CMS%EDM%Framework%Module
+plugin-poisoned-testMVATrainerLooper.so testMVATrainerLooper CMS%EDM%Framework%ParameterSet%Description
